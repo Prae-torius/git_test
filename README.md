@@ -1,2 +1,3 @@
 # git_test
-Odin Project test GiyHub repo
+Odin Project test GitHub repo
+Hello Odin!
